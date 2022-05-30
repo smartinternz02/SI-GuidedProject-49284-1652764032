@@ -8,3 +8,5 @@ The manual diagnosis process of DR retina fundus images by ophthalmologists is t
 # Our Project
 In this project, we will be building a Transfer learning model that can detect and classify types of Diabetic Retinopathy. 
 A web application is integrated with the model, from where the user can upload a Diabetic Retinopathy (DR) image like Mild DR, Severe DR, etc., and see the analyzed results on UserInterface.
+
+![DR image](/Flask/static/img/third.png)
